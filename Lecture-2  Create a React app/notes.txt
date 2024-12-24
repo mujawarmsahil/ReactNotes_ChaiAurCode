@@ -1,0 +1,26 @@
+When we are working with React we have two ways
+1) React DOM --> It is used when we are working with Web
+2) React-Native ---> It is used when we are working with mobile applications.
+
+How to make react Projects
+use npx ---> It is a present in npm(Node package manager) which is a package present in Node. When we want to directly execute the library without installing it then we use NPX (Node package executor)
+
+Command for making react application 
+1) npx create-react-app projectRepoName
+    create-react-app is a utility means software . This command takes lots of time for installing libraries and it is a bulky utility gives some softwares or libraries which we don't want in our project
+        -   for starting project we use command --> npm run start 
+            we have more command like build , test , eject 
+            when we run npm run build it will give all the static assets of that particular project means html , css, js which is given to users when it goes in production
+
+2) npm create vite@latest 
+    vite is a bundler which is work with many libraries and frameworks and we are using vite for making react app            
+    Further it ask for more information just select them and complete the process
+    - npm i or npm install ---> use this command for creating node modules in vite project which are necessary
+    -   for starting project we use command --> npm run start 
+            we have more command like build , test , eject 
+            when we run npm run build it will give all the static assets of that particular project means html , css, js which is given to users when it goes in production
+
+Package JSON difference between both commands
+first command give dependencies which are used for testing and ejecting purpose mostly not required for development purpose
+second command gives just two dependencies react and react-dom which are sufficient to create a react project
+second command gives more devDependencies which are only used for development purpose

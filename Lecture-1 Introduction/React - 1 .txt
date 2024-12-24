@@ -1,0 +1,22 @@
+Why to learn react ? 
+	-> The hype , job , trend , Build UI ---> wrong approach 
+	-> Make easy to manage and build complex frontend
+
+When should I learn React ? 
+	-> After mastering JS
+	-> Most project dont need React in initial Phase
+	
+	Browser understand only html , css and js so react is compiled into them and if you are using React for simple projects then you are overhelming them
+	
+Why React was created
+	-> Ghost Message Problem (fantom facebook) One of the founding team member of React --> Dan
+	Adopted by Khan Academy(Educational website) and Unsplash(Image downloading website)
+
+Don't Learn React if : 
+	-> You don't know how JS works or DOM Works
+	For DOM Inner working of browser hitesh choudhary
+	
+React is a library
+React makes single page application means page cannot reloaded
+For reloading we have to learn manipulation using router but router is not functionality of router.
+For this we have to use new package React-Router-DOM .It is a new library
