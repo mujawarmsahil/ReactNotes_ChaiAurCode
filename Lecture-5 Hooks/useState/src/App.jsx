@@ -22,8 +22,8 @@ function App() {
       <h1>Counter</h1>
       <h3>{count}</h3>
       <div className="container">
-        <button type="button" onClick={addValue}>Increment Counter{count}</button>
-        <button type="button" onClick={removeValue}>Decrease Counter{count}</button>
+        <button type="button" onClick={addValue}>Increment Counter &rArr; {count}</button>
+        <button type="button" onClick={removeValue}>Decrease Counter &rArr; {count}</button>
       </div>
     </>
   )
