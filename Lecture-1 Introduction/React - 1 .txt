@@ -18,5 +18,5 @@ Don't Learn React if :
 	
 React is a library
 React makes single page application means page cannot reloaded
-For reloading we have to learn manipulation using router but router is not functionality of router.
+For reloading we have to learn manipulation using router but router is not functionality of react.
 For this we have to use new package React-Router-DOM .It is a new library

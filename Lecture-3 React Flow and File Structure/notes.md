@@ -23,7 +23,7 @@ When JavaScript run solo then it only work as JavaScript application but when we
         -   index.js -> It is a entry point of application and we can give any name to this
             a)  ReactDOM is own react Dom which is called as virtual DOM
             b)  This ReactDOM contains one method createRoot(element) which create a root element for the page means parent of all nodes in DOM Tree
-            c)  .render is a method which is used to render another element in  a particular root or variable 
+            c)  .render() is a method which is used to render another element in  a particular root or variable 
             d)  React.StrictMode is same as "use strict" in js which allow developer to follow the precise programming rules of JavaScript in strict manner
             e)  This virtualDOM compare self with web DOM and render the missing elements or changes in web DOM
             f)  There is dependency in package.json file "react-scripts": "5.0.1" which automatically loads index.js file into index.html even the script tag is not added in html file
